@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431731807349",
+    "firebase_url": "https://gugu-ea68f-default-rtdb.firebaseio.com",
+    "project_id": "gugu-ea68f",
+    "storage_bucket": "gugu-ea68f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431731807349:android:5334ac6bb241516d7f543c",
+        "android_client_info": {
+          "package_name": "com.example.gugu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431731807349-tjp7dm9lsksddrk9i7lda47a27qggu77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ilxC1T46CnP0Yzo2EWQKWPXhC16b6Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431731807349-tjp7dm9lsksddrk9i7lda47a27qggu77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
